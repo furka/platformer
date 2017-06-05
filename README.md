@@ -6,6 +6,6 @@
 
 
 ### Controls
-A - left
-D - Right
-O - Jump
+* A - left
+* D - Right
+* O - Jump
